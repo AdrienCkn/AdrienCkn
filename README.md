@@ -23,10 +23,12 @@
   <img src="https://komarev.com/ghpvc/?username=AdrienCkn&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I’m currently working on [IRL Board](https://github.com/PoCInnovation/iRL-Board)
-- 🌱 I’m currently learning C++
+<br>
 
-### Languages and Tools:
+- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on [IRL Board](https://github.com/PoCInnovation/iRL-Board)
+
+<p style="text-align: center;">### Languages and Tools:</p>
 <div id ="languages" align="center">
   <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
   <code><img src="https://pytorch.org/assets/images/pytorch-logo.png" height="30"></code>
