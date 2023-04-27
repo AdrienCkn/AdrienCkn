@@ -25,10 +25,10 @@
 
 <br>
 
-- 🌱 I’m currently learning C++
-- 🔭 I’m currently working on [IRL Board](https://github.com/PoCInnovation/iRL-Board)
+<p align="center">🌱 I’m currently learning C++ 🌱</p>
+<p align="center">🔭 I’m currently working on [IRL Board](https://github.com/PoCInnovation/iRL-Board) 🔭</p>
 
-<center>### Languages and Tools:</center>
+<h3 align="center">Languages and Tools:</h3>
 <div id ="languages" align="center">
   <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
   <code><img src="https://pytorch.org/assets/images/pytorch-logo.png" height="30"></code>
