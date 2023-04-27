@@ -5,9 +5,14 @@
 </div>
 
 <div id="badges" align="center">
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrien-cokini)
+  <a href="https://www.epitech.eu">
+    <img src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white" alt="Epitech"/>
+  </a>
   <a href="https://www.linkedin.com/in/adrien-cokini/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/PoCInnovation">
+    <img src="https://img.shields.io/badge/PoC%20Innovation-36454F?style=for-the-badge&logo=github&logoColor=white" alt="PoC Innovation"/>
   </a>
   <a href="mailto:adrien.ckn@gmail.com">
     <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=Google&logoColor=white" alt="Email"/>
