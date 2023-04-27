@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=AdrienCkn&style=flat-square&color=blue" alt=""/>
 
 - 🔭 I’m currently working on [IRL Board](https://github.com/PoCInnovation/iRL-Board)
 - 🌱 I’m currently learning C++
