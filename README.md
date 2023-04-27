@@ -12,7 +12,10 @@
     <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=Google&logoColor=white" alt="Google Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=AdrienCkn&style=flat-square&color=blue" alt=""/>
+
+<div id="nb_views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdrienCkn&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 🔭 I’m currently working on [IRL Board](https://github.com/PoCInnovation/iRL-Board)
 - 🌱 I’m currently learning C++
