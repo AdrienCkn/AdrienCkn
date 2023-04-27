@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning C++
 - 🔭 I’m currently working on [IRL Board](https://github.com/PoCInnovation/iRL-Board)
 
-<p style="text-align: center;">### Languages and Tools:</p>
+<center>### Languages and Tools:</center>
 <div id ="languages" align="center">
   <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="30"></code>
   <code><img src="https://pytorch.org/assets/images/pytorch-logo.png" height="30"></code>
