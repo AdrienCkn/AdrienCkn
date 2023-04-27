@@ -1,9 +1,5 @@
 <h2 align="center">Hi there 👋</h2>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2zZNmrvguyPTS06rK0/giphy.gif" width="100"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.epitech.eu">
     <img src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white" alt="Epitech"/>
