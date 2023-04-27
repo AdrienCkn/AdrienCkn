@@ -11,11 +11,5 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
-<!--
-**AdrienCkn/AdrienCkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [IRL Board](https://github.com/PoCInnovation/iRL-Board)
 - 🌱 I’m currently learning C++
--->
