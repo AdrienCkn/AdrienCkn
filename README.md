@@ -8,7 +8,9 @@
   <a href="https://www.linkedin.com/in/adrien-cokini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  [<img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=Google&logoColor=white" alt="Google Badge"/>](adrien.ckn@gmail.com)
+  <a href="mailto:adrien.ckn@gmail.com">
+    <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=Google&logoColor=white" alt="Google Badge"/>
+  </a>
 </div>
 
 <div id="nb_views" align="center">
