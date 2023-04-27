@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/adrien-cokini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/adrien-cokini/">
+    <img src="https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Google Badge"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=AdrienCkn&style=flat-square&color=blue" alt=""/>
 
