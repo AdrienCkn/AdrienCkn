@@ -5,6 +5,8 @@
 </div>
 
 <div id="badges" align="center">
+  [![epitech](https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white)](https://www.epitech.eu)
+  [![PoC Innovation](https://img.shields.io/badge/PoC%20Innovation-36454F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoCInnovation)
   <a href="https://www.linkedin.com/in/adrien-cokini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
