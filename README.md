@@ -46,5 +46,5 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManuelR-T&theme=dark&hide_border=true&border_radius=10&background=0D1117" alt="manuelr-t"/>
+  <img src="https://streak-stats.demolab.com?user=AdrienCkn&theme=dark&hide_border=false&border_radius=12&background=0D1117" alt="manuelr-t"/>
 </p>
