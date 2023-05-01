@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/adrien-cokini/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:adrien.ckn@gmail.com" target="blank">
+  <a href="mailto:adrien.ckn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Google-red?style=for-the-badge&logo=Google&logoColor=white" alt="adrien.ckn@gmail.com"/>
   </a>
 </div>
@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">🌱 I’m currently learning C++ 🌱</p>
-<p align="center">🔭 I’m currently working on [IRL Board](https://github.com/PoCInnovation/iRL-Board) 🔭</p>
+<p align="center">🔭 I’m currently working on <a href="https://github.com/PoCInnovation/iRL-Board"> IRL Board</a>🔭</p>
 
 <br>
 
